@@ -46,6 +46,7 @@ export class ProfileComponent {
     this.profileData.fname=myForm.value.fname;
     this.profileData.lname=myForm.value.lname;
     this.profileData.age=myForm.value.age;
+    this.profileData.password=myForm.value.password;
     this.profileData.address=myForm.value.address;
     this.profileData.email=myForm.value.email;
     this.profileData.phone=myForm.value.phone;
